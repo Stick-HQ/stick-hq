@@ -10,7 +10,8 @@ everything is going.
 
 Stick HQ is for members of its Discord server. Join here: https://discord.gg/7UGtP7vYp2
 
-1. Download **StickHQ-Setup** from the [latest release](https://github.com/Stick-HQ/stick-hq/releases/latest).
+1. [Download **StickHQ-Setup.exe**](https://github.com/Stick-HQ/stick-hq/releases/latest/download/StickHQ-Setup.exe) (the newest version; every version is on the
+   [releases page](https://github.com/Stick-HQ/stick-hq/releases)).
 2. Run it. Windows may say *"Windows protected your PC"* the first time: choose **More info > Run anyway**.
    (The app isn't signed with a paid code-signing certificate yet.)
 3. Open Stick HQ and sign in with Discord.
